@@ -1,0 +1,1 @@
+# strimco-test-task
